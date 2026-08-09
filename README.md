@@ -13,13 +13,12 @@ whenever you copy/paste.
 ## The problem
 
 ```
-لسلام عليكم أحمد,
-```
+.ا‏لسلام عليكم```
 
-Should read (comma right after "أحمد"):
+Should read (fullstop right after "عليكم"):
 
 ```
-السلام عليكم أحمد،
+السلام عليكم.‏
 ```
 
 But in many apps the `,` and `.` end up floating at the *start* of the line
