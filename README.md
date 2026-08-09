@@ -17,8 +17,9 @@ whenever you copy/paste.
 
 Should read (fullstop right after "عليكم"):
 
-```
 السلام عليكم.‏
+
+```
 ```
 
 But in many apps the `,` and `.` end up floating at the *start* of the line
